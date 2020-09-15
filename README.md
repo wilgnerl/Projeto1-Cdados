@@ -1,7 +1,7 @@
 # Projeto1-Cdados
 Repositorio para o projeto 1 da disciplina de Ciencia de dados 2020
 
-Alunos: Fabricio Nei e Wilgner Lopes
+Alunos: Fabricio Neri e Wilgner Lopes
 
 Produto utilizado para o projeto: O jogo Valorant
 
