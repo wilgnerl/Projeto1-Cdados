@@ -16,5 +16,5 @@ Produto utilizado para o projeto: **O jogo Valorant**
   
 ## [Entrega APS 4 - Dia 16/09](./Entrega_APS_4)
   - [Planilha Excel com a base de dados coletada e classificada](./Entrega_APS_4/Valorant.xlsx)
-  - **Conta do Twitter: **@AnalyticsInsper
-  - **Produto: **Jogo Valorant 
+  - **Conta do Twitter: ** @AnalyticsInsper
+  - **Produto: ** Jogo Valorant 
