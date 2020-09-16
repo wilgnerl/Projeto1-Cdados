@@ -13,3 +13,8 @@ Produto utilizado para o projeto: **O jogo Valorant**
 
   - Os tweets que falavam de **alguma forma positiva ou negativa sobre o jogo ou até mesmo que relacionavam o jogo a alguma emoção**, foram classificados como relevantes. 
   - Os demais tweets foram classificados como **Irrelevantes**
+  
+## [Entrega APS 4 - Dia 16/09](./Entrega_APS_4)
+  - [Planilha Excel com a base de dados coletada e classificada](./Entrega_APS_4/Valorant.xlsx)
+  - **Conta do Twitter: **@AnalyticsInsper
+  - **Produto: **Jogo Valorant 
