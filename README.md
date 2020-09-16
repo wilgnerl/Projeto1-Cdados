@@ -7,7 +7,7 @@ Repositorio para o **Projeto 1 da disciplina de Ciencia de dados 2020**
 
 Produto utilizado para o projeto: **O jogo Valorant**
 
- - O arquivo **Valorant.xlsx** contem a base de dados coletadas para treino e para teste devidamente classificados. A classificação 1 corresponde a Itens relevantes e a classificação 2 corresponde a itens irrelevantes.
+ - O arquivo **Valorant.xlsx** contem a base de dados coletadas para treino e para teste devidamente classificados. A **classificação 1** corresponde a **Itens relevantes** e a **classificação 2** corresponde a **itens irrelevantes**.
 
 ## Critério para a classificação dos tweets sobre Valorant: 
 
