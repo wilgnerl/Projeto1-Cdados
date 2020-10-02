@@ -20,4 +20,4 @@ Produto utilizado para o projeto: **O jogo Valorant**
   - **Produto:** Jogo Valorant 
 
 ## [Entrega Oficial](./Oficial)
-  - [Arquivo Jupyter oficial] (./Oficial/"Projeto 1 - Cdados Oficial.ipynb)
+  - [Arquivo Jupyter oficial] (./Oficial/Projeto 1 - Cdados Oficial.ipynb)
