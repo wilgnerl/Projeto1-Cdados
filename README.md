@@ -18,3 +18,6 @@ Produto utilizado para o projeto: **O jogo Valorant**
   - [Planilha Excel com a base de dados coletada e classificada](./Entrega_APS_4/Valorant.xlsx)
   - **Conta do Twitter:** @AnalyticsInsper
   - **Produto:** Jogo Valorant 
+
+## [Entrega Oficial](./Oficial)
+  - [Arquivo Jupyter oficial](./Oficial/Projeto 1 - Cdados Oficial.ipynb)
