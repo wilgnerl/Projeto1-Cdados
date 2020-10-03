@@ -20,4 +20,4 @@ Produto utilizado para o projeto: **O jogo Valorant**
   - **Produto:** Jogo Valorant 
 
 ## [Entrega Oficial](./Oficial)
-  - [Arquivo Oficial](./Oficial/Projeto 1 - Cdados Oficial.ipynb)
+  - [Planilha Excel com a base de dados coletada e classificada](./Entrega_APS_4/Valorant.xlsx)
